@@ -9,3 +9,14 @@
 
 **Link(s) to work**
 1. https://www.freecodecamp.org/learn/responsive-web-design/applied-visual-design/lock-an-element-to-the-browser-window-with-fixed-positioning
+
+
+
+### Day 2: January 7 2021, Thursday
+
+**Today's Progress**: I've finished the visual design segmant of fcc today.
+
+**Thoughts** I learned a few tricks in CSS. I will definitely have to refresh on some of the subjects like ::before and ::after pseudo selectors as well as more on the cubic-bezier measurement when it comes to animation time. I am however feeling more confident and understanding in how to build out basic animations using css and @keyframes.
+
+**Link(s) to work**
+1. https://www.freecodecamp.org/learn/responsive-web-design/applied-visual-design/make-motion-more-natural-using-a-bezier-curve
