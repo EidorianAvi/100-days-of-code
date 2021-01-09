@@ -20,3 +20,13 @@
 
 **Link(s) to work**
 1. https://www.freecodecamp.org/learn/responsive-web-design/applied-visual-design/make-motion-more-natural-using-a-bezier-curve
+
+
+### Day 3: January 8 2021, Friday
+
+**Today's Progress**: I've been checking out accessibility and covered half of fcc course on it. I also did a code challenge for iterable and passed it. 
+
+**Thoughts** I learned quite a bit about accessability. I always had parts of it but FCC has done really well in breaking it down and why it matters. The code challenge was really difficult to be honest but man I'm glad I passed it. 
+
+**Link(s) to work**
+1. https://www.freecodecamp.org/learn/responsive-web-design/applied-accessibility/wrap-radio-buttons-in-a-fieldset-element-for-better-accessibility
