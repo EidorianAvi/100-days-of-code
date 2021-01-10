@@ -30,3 +30,12 @@
 
 **Link(s) to work**
 1. https://www.freecodecamp.org/learn/responsive-web-design/applied-accessibility/wrap-radio-buttons-in-a-fieldset-element-for-better-accessibility
+
+### Day 4: January 9 2021, Saturday
+
+**Today's Progress**: I finished up the web accessibility portion of fcc.
+
+**Thoughts** I think accessibility is super important and I have a much stronger grasp of how to use semantic HTML for screen readers to work properly. I wouldn't say I'm great and it'll take practice to incroporate into things such as React projects but I'd definitely say I understand how to approach it more. 
+
+**Link(s) to work**
+1. https://www.freecodecamp.org/learn/responsive-web-design/applied-accessibility/use-tabindex-to-specify-the-order-of-keyboard-focus-for-several-elements
