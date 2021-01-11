@@ -48,3 +48,12 @@
 
 **Link(s) to work**
 1. https://dev.to/eidorianavi/an-introduction-to-web-accessibility-3mfl
+
+### Day 6: January 11 2021, Monday
+
+**Today's Progress**: I practiced my algorithms today. Was a shorter day but I need it. 
+
+**Thoughts** Getting decent at algorithms. I really do enjoy JavaScript and learn new things about it all the time. 
+
+**Link(s) to work**
+1. hackerrank problems
