@@ -39,3 +39,12 @@
 
 **Link(s) to work**
 1. https://www.freecodecamp.org/learn/responsive-web-design/applied-accessibility/use-tabindex-to-specify-the-order-of-keyboard-focus-for-several-elements
+
+### Day 5: January 10 2021, Sunday
+
+**Today's Progress**: Today I wrote a blog post about accessibility and I finished some hackerrank problems. 
+
+**Thoughts** Was a bit of a light day but I'm happy to have  completed an algorithm and written yet another blog post.
+
+**Link(s) to work**
+1. https://dev.to/eidorianavi/an-introduction-to-web-accessibility-3mfl
