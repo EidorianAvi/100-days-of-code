@@ -58,7 +58,7 @@
 **Link(s) to work**
 1. hackerrank problems
 
-### Day 6: January 11 2021, Monday
+### Day 7: January 12 2021, Tuesday
 
 **Today's Progress**: I worked on the flex segmant of fcc and also finished an algorithm. I spent a good amount of today applying for jobs as well.
 
@@ -66,3 +66,12 @@
 
 **Link(s) to work**
 1. hackerrank problems
+
+### Day 6: January 13 2021, Wednesday
+
+**Today's Progress**: I finished the flex segmant of fcc and also finished an algorithm. Was a relatively light day.
+
+**Thoughts**  Was a short day today. About to start my work week. Still got some work done. 
+
+**Link(s) to work**
+1. https://www.freecodecamp.org/learn/responsive-web-design/css-flexbox/use-the-align-self-property
