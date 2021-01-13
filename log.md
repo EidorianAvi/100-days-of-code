@@ -57,3 +57,12 @@
 
 **Link(s) to work**
 1. hackerrank problems
+
+### Day 6: January 11 2021, Monday
+
+**Today's Progress**: I worked on the flex segmant of fcc and also finished an algorithm. I spent a good amount of today applying for jobs as well.
+
+**Thoughts**  I'm satisfied with my progress on algorithms but always striving for me. One thing I want to address is a better method for cycling through two arrays than two loops as the time complexity is too high. I enjoy fcc a lot and always learn something new. The job hunt is rough but I have at least heard back from a few companies. Still a work in progress.
+
+**Link(s) to work**
+1. hackerrank problems
