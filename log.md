@@ -67,7 +67,7 @@
 **Link(s) to work**
 1. hackerrank problems
 
-### Day 8: January 13 2021, Thursday
+### Day 8: January 13 2021, Wednesday
 
 **Today's Progress**: I finished the flex segmant of fcc and also finished an algorithm. Was a relatively light day.
 
@@ -76,7 +76,7 @@
 **Link(s) to work**
 1. https://www.freecodecamp.org/learn/responsive-web-design/css-flexbox/use-the-align-self-property
 
-### Day 9: January 14 2021, Friday
+### Day 9: January 14 2021, Thursday
 
 **Today's Progress**: I worked on the hackerrank for dropbox and also spent personal time on algorithms. About two hours total today.
 
@@ -84,3 +84,12 @@
 
 **Link(s) to work**
 1. Interview code challenge unavailable. 
+
+### Day 10: January 15 2021, Friday
+
+**Today's Progress**: I completed the grid section on FCC and I solved an algorithm on hackerrank.
+
+**Thoughts** : I really enjoy FCC i'm surprised how fleshed out it is. I feel like I should start building soon but I haven't had the motivation. I am at least learning new things and improving on my alogrithms so I'm not at a complete loss. 
+
+**Link(s) to work**
+1. https://www.hackerrank.com/challenges/picking-numbers/problem
