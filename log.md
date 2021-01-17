@@ -93,3 +93,12 @@
 
 **Link(s) to work**
 1. https://www.hackerrank.com/challenges/picking-numbers/problem
+
+### Day 11: January 15 2021, Saturday
+
+**Today's Progress**: Just algo practice.
+
+**Thoughts** : Really light day. I've been exhausted from work. Still did it though. 
+
+**Link(s) to work**
+1. https://www.hackerrank.com/challenges/picking-numbers/problem
