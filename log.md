@@ -96,7 +96,7 @@
 
 ### Day 11: January 15 2021, Saturday
 
-**Today's Progress**: Just algo practice.
+**Today's Progress**: Just algo practice and I wrote a blog post on the Math object in JavaScript.
 
 **Thoughts** : Really light day. I've been exhausted from work. Still did it though. 
 
