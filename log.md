@@ -94,11 +94,38 @@
 **Link(s) to work**
 1. https://www.hackerrank.com/challenges/picking-numbers/problem
 
-### Day 11: January 15 2021, Saturday
+### Day 11: January 16 2021, Saturday
 
 **Today's Progress**: Just algo practice and I wrote a blog post on the Math object in JavaScript.
 
 **Thoughts** : Really light day. I've been exhausted from work. Still did it though. 
+
+**Link(s) to work**
+1. https://www.hackerrank.com/challenges/picking-numbers/problem
+
+### Day 12: January 17 2021, Sunday
+
+**Today's Progress**: Algo practice. I've almost run out of easy problems and will be tackling almost all medium moving forward. 
+
+**Thoughts** : I've improved quite a bit in algo practice and am anxious to push it to the next level practicing medium questions. 
+
+**Link(s) to work**
+1. https://www.hackerrank.com/challenges/picking-numbers/problem
+
+### Day 12: January 18 2021, Monday
+
+**Today's Progress**: Algo practice. I've started working on the projects of RWD on FCC.
+
+**Thoughts** : Lots of applications today but also at least an hour of code today.
+
+**Link(s) to work**
+1. https://www.hackerrank.com/challenges/picking-numbers/problem
+
+### Day 12: January 19 2021, Tuesday
+
+**Today's Progress**: Algo practice. Still working on the projects for RWD on FCC.
+
+**Thoughts** : These are pretty useful at teaching good practices it seems. 
 
 **Link(s) to work**
 1. https://www.hackerrank.com/challenges/picking-numbers/problem
