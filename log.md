@@ -112,7 +112,7 @@
 **Link(s) to work**
 1. https://www.hackerrank.com/challenges/picking-numbers/problem
 
-### Day 12: January 18 2021, Monday
+### Day 13: January 18 2021, Monday
 
 **Today's Progress**: Algo practice. I've started working on the projects of RWD on FCC.
 
@@ -121,8 +121,18 @@
 **Link(s) to work**
 1. https://www.hackerrank.com/challenges/picking-numbers/problem
 
-### Day 12: January 19 2021, Tuesday
+### Day 14: January 19 2021, Tuesday
+ 
+**Today's Progress**: Algo practice. Still working on the projects for RWD on FCC.
 
+**Thoughts** : These are pretty useful at teaching good practices it seems. 
+
+**Link(s) to work**
+1. https://www.hackerrank.com/challenges/picking-numbers/problem
+
+
+### Day 15: January 20 2021, Wednesday
+ 
 **Today's Progress**: Algo practice. Still working on the projects for RWD on FCC.
 
 **Thoughts** : These are pretty useful at teaching good practices it seems. 
